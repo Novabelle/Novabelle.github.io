@@ -1,2 +1,2 @@
 # Novabelle.github.io
-Novabelle's Static Site
+Novabelle's Totally Beast Page
